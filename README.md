@@ -105,8 +105,8 @@ conteúdo do item, convertido para inteiro, em um vetor
     e) Utilizar os operadores map e reduce, do vetor, para gerar os novos itens da
 lista de valores, substituindo o conteúdo da lista via innerHTML
 
-
 Por fim, verifique os resultados obtidos através de um navegador.
+
 👉 2º Procedimento | Página de Receitas Dinâmica
 
 Crie uma página com o nome "receitas.html", no ambiente de edição;
@@ -175,7 +175,8 @@ formatados com base na função getCard, a partir do vetor JSON
 
     c) Alterar o innerHTML de pnlCatalogo para o texto HTML gerado
 
-    Por fim, verifique os resultados obtidos através de um navegador.
+Por fim, verifique os resultados obtidos através de um navegador.
+
 👉 3º Procedimento | Transmissão de Dados e VUE JS
 
 Acesse o endereço de teste REST https://reqres.in/api/users?per_page=10, e
